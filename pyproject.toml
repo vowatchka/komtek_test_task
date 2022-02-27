@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "komtek_test_task"
+version = "1.0.0"
+description = "Тестовое задание для OOO КОМТЕК"
+authors = ["vowathcka <vowatchka@mail.ru>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+djangorestframework = "^3.13.1"
+Django = "3.*"
+django-environ-2 = "^2.3.0"
+psycopg2 = "^2.9.3"
+django-filter = "^21.1"
+drf-yasg = "^1.20.0"
+
+[tool.poetry.dev-dependencies]

@@ -63,3 +63,16 @@ API должно предоставлять следующие методы:
 ## Размещение
 
 * Проект должен быть размещён на GitHub или аналогичном сервисе.
+
+
+## Links (order by useful)
+### Django + Postgres
+[Django+PostgreSQL за 8 шагов](https://djbook.ru/examples/77/)
+[Getting Started with PostgreSQL on Windows](https://courses.cs.washington.edu/courses/csep544/11au/resources/postgresql-instructions.html)
+[Установка и использование PostgreSQL на Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-ru)
+[How to connecting PostgreSQL with a Django application](https://medium.com/@rudipy/how-to-connecting-postgresql-with-a-django-application-f479dc949a11)
+[Set Up a PostgreSQL Database on Windows](https://www.microfocus.com/documentation/idol/IDOL_12_0/MediaServer/Guides/html/English/Content/Getting_Started/Configure/_TRN_Set_up_PostgreSQL.htm)
+
+### Docker + Docker Compose
+[Докеризация Django с Postgres, Gunicorn и Traefik](https://techrocks.ru/2021/05/27/dockerizing-django-with-postgres-gunicorn-traefik/)
+[Quickstart: Compose and Django](https://docs.docker.com/samples/django/)
