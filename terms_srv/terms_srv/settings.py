@@ -16,14 +16,15 @@ import environ
 # Default env vars
 env = environ.Env(
     DEBUG=(bool, True),
-    HIDE_DOCS=(bool, False),
 )
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # read env file
-environ.Env.read_env(os.path.join(BASE_DIR, '.env'))
+ENV_PATH = os.path.join(BASE_DIR, '.env')
+if os.path.exists(ENV_PATH):
+    environ.Env.read_env(ENV_PATH)
 
 
 # Quick-start development settings - unsuitable for production
