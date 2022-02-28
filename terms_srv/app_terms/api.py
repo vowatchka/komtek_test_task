@@ -43,17 +43,21 @@ class DirectoryItemApiView(ReadOnlyModelViewSet):
 
     @action(detail=False, methods=["post"])
     def validate(self, request, *args, **kwargs):
+        """
+        Действие для валидации элементов справочника
+        """
+
         serializer = DirectoryItemsValidateSerializer(data=request.data)
         serializer.is_valid(raise_exception=True)
 
         requested_codes = serializer.data["codes"]
 
-        # фильтруем записи, сели есть фильтры в запросе
+        # фильтруем записи, если есть фильтры в запросе
         qs = self.filter_queryset(self.get_queryset())
 
         codes = []
         # если в отфильтрованном наборе есть записи,
-        # то можно проверить, есть ли среди них с такими кодами,
+        # то можно взять из них с такими кодами,
         # которые указаны в запросе
         if len(qs):
             codes = list(qs.filter(code__in=requested_codes).distinct().values_list("code", flat=True))

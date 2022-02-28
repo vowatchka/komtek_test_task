@@ -10,7 +10,7 @@ class Directory(models.Model):
         max_length=200,
         unique=True,
         validators=[MinLengthValidator(10)],
-        help_text="10-200 символов",
+        help_text="10-200 символов. Должно быть уникально",
         verbose_name="Наименование",
     )
     alias = models.CharField(
@@ -34,6 +34,7 @@ class Directory(models.Model):
     class Meta:
         verbose_name = "справочник"
         verbose_name_plural = "справочники"
+        ordering = ("title",)
 
 
 class DirectoryVersion(models.Model):
@@ -57,7 +58,7 @@ class DirectoryVersion(models.Model):
     )
 
     def __str__(self):
-        return self.version
+        return f"{self.directory.title}, версия: {self.version}"
 
     class Meta:
         verbose_name = "версия справочника"

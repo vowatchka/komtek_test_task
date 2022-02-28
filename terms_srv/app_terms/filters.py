@@ -1,4 +1,5 @@
 import django_filters
+from django.db.models import QuerySet
 
 from .models import Directory, DirectoryVersion, DirectoryItem
 
@@ -39,16 +40,21 @@ class DirectoryItemFilter(django_filters.FilterSet):
         fields = ("version",)
 
     def filter_by_version(self, queryset, name, value):
+        """
+        Метод для фильтрации элементов справочника по указанной версии
+        """
+
         filters = {
             name: value,
             "directory": self.request.parser_context["kwargs"]["directory_pk"]
         }
 
         # находим указанную версию
-        version = DirectoryVersion.objects.only("actual_from_dt").filter(**filters).all()
-        if len(version):
+        version = DirectoryVersion.objects.only("actual_from_dt").filter(**filters).first()
+        if version is not None:
             # возвращаем все элементы справчоника указанной версии,
-            # т.е. такие которые принадлежат текущей версии и всем версиям до нее
-            return queryset.filter(version__actual_from_dt__lte=version[0].actual_from_dt)
+            # т.е. такие, которые были добавлены в указанную версию
+            # и во все версии до нее
+            return queryset.filter(version__actual_from_dt__lte=version.actual_from_dt)
         # если не нашли версию, то возвращаем пустой QuerySet
-        return version
+        return queryset.none()
