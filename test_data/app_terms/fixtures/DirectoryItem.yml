@@ -1,0 +1,8400 @@
+- model: app_terms.directoryitem
+  pk: 56
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 57
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 58
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 59
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 60
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 61
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 62
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 63
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 64
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 65
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 66
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 67
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 68
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 69
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 70
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 71
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 72
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 73
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 74
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 75
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 4
+    version: 33
+- model: app_terms.directoryitem
+  pk: 76
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 77
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 78
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 79
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 80
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 81
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 82
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 83
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 84
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 85
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 86
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 87
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 88
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 89
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 90
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 91
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 92
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 93
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 94
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 95
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 4
+    version: 34
+- model: app_terms.directoryitem
+  pk: 96
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 97
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 98
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 99
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 100
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 101
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 102
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 103
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 104
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 105
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 106
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 107
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 108
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 109
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 110
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 111
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 112
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 113
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 114
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 115
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 4
+    version: 35
+- model: app_terms.directoryitem
+  pk: 116
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 117
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 118
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 119
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 120
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 121
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 122
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 123
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 124
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 125
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 126
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 127
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 128
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 129
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 130
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 131
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 132
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 133
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 134
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 135
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 5
+    version: 36
+- model: app_terms.directoryitem
+  pk: 136
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 137
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 138
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 139
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 140
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 141
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 142
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 143
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 144
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 145
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 146
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 147
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 148
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 149
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 150
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 151
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 152
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 153
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 154
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 155
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 5
+    version: 37
+- model: app_terms.directoryitem
+  pk: 156
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 157
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 158
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 159
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 160
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 161
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 162
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 163
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 164
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 165
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 166
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 167
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 168
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 169
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 170
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 171
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 172
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 173
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 174
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 175
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 5
+    version: 38
+- model: app_terms.directoryitem
+  pk: 176
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 177
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 178
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 179
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 180
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 181
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 182
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 183
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 184
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 185
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 186
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 187
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 188
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 189
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 190
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 191
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 192
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 193
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 194
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 195
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 6
+    version: 39
+- model: app_terms.directoryitem
+  pk: 196
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 197
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 198
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 199
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 200
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 201
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 202
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 203
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 204
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 205
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 206
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 207
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 208
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 209
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 210
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 211
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 212
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 213
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 214
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 215
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 6
+    version: 40
+- model: app_terms.directoryitem
+  pk: 216
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 217
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 218
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 219
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 220
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 221
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 222
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 223
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 224
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 225
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 226
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 227
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 228
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 229
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 230
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 231
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 232
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 233
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 234
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 235
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 6
+    version: 41
+- model: app_terms.directoryitem
+  pk: 236
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 237
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 238
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 239
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 240
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 241
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 242
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 243
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 244
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 245
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 246
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 247
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 248
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 249
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 250
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 251
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 252
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 253
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 254
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 255
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 7
+    version: 42
+- model: app_terms.directoryitem
+  pk: 256
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 257
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 258
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 259
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 260
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 261
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 262
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 263
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 264
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 265
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 266
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 267
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 268
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 269
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 270
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 271
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 272
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 273
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 274
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 275
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 7
+    version: 43
+- model: app_terms.directoryitem
+  pk: 276
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 277
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 278
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 279
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 280
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 281
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 282
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 283
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 284
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 285
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 286
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 287
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 288
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 289
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 290
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 291
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 292
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 293
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 294
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 295
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 7
+    version: 44
+- model: app_terms.directoryitem
+  pk: 296
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 297
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 298
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 299
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 300
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 301
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 302
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 303
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 304
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 305
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 306
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 307
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 308
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 309
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 310
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 311
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 312
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 313
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 314
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 315
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 8
+    version: 45
+- model: app_terms.directoryitem
+  pk: 316
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 317
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 318
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 319
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 320
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 321
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 322
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 323
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 324
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 325
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 326
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 327
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 328
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 329
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 330
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 331
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 332
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 333
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 334
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 335
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 8
+    version: 46
+- model: app_terms.directoryitem
+  pk: 336
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 337
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 338
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 339
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 340
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 341
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 342
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 343
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 344
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 345
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 346
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 347
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 348
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 349
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 350
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 351
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 352
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 353
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 354
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 355
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 8
+    version: 47
+- model: app_terms.directoryitem
+  pk: 356
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 357
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 358
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 359
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 360
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 361
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 362
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 363
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 364
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 365
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 366
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 367
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 368
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 369
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 370
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 371
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 372
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 373
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 374
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 375
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 9
+    version: 48
+- model: app_terms.directoryitem
+  pk: 376
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 377
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 378
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 379
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 380
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 381
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 382
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 383
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 384
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 385
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 386
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 387
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 388
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 389
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 390
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 391
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 392
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 393
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 394
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 395
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 9
+    version: 49
+- model: app_terms.directoryitem
+  pk: 396
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 397
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 398
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 399
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 400
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 401
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 402
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 403
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 404
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 405
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 406
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 407
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 408
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 409
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 410
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 411
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 412
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 413
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 414
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 415
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 9
+    version: 50
+- model: app_terms.directoryitem
+  pk: 416
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 417
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 418
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 419
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 420
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 421
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 422
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 423
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 424
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 425
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 426
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 427
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 428
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 429
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 430
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 431
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 432
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 433
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 434
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 435
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 10
+    version: 51
+- model: app_terms.directoryitem
+  pk: 436
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 437
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 438
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 439
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 440
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 441
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 442
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 443
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 444
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 445
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 446
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 447
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 448
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 449
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 450
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 451
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 452
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 453
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 454
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 455
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 10
+    version: 52
+- model: app_terms.directoryitem
+  pk: 456
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 457
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 458
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 459
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 460
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 461
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 462
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 463
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 464
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 465
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 466
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 467
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 468
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 469
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 470
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 471
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 472
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 473
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 474
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 475
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 10
+    version: 53
+- model: app_terms.directoryitem
+  pk: 476
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 477
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 478
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 479
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 480
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 481
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 482
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 483
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 484
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 485
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 486
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 487
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 488
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 489
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 490
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 491
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 492
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 493
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 494
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 495
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 11
+    version: 54
+- model: app_terms.directoryitem
+  pk: 496
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 497
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 498
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 499
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 500
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 501
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 502
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 503
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 504
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 505
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 506
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 507
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 508
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 509
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 510
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 511
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 512
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 513
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 514
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 515
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 11
+    version: 55
+- model: app_terms.directoryitem
+  pk: 516
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 517
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 518
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 519
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 520
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 521
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 522
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 523
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 524
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 525
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 526
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 527
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 528
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 529
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 530
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 531
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 532
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 533
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 534
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 535
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 11
+    version: 56
+- model: app_terms.directoryitem
+  pk: 536
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 537
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 538
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 539
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 540
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 541
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 542
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 543
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 544
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 545
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 546
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 547
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 548
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 549
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 550
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 551
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 552
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 553
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 554
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 555
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 12
+    version: 57
+- model: app_terms.directoryitem
+  pk: 556
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 557
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 558
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 559
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 560
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 561
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 562
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 563
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 564
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 565
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 566
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 567
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 568
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 569
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 570
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 571
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 572
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 573
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 574
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 575
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 12
+    version: 58
+- model: app_terms.directoryitem
+  pk: 576
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 577
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 578
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 579
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 580
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 581
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 582
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 583
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 584
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 585
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 586
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 587
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 588
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 589
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 590
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 591
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 592
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 593
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 594
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 595
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 12
+    version: 59
+- model: app_terms.directoryitem
+  pk: 596
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 597
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 598
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 599
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 600
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 601
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 602
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 603
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 604
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 605
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 606
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 607
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 608
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 609
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 610
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 611
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 612
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 613
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 614
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 615
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 13
+    version: 60
+- model: app_terms.directoryitem
+  pk: 616
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 617
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 618
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 619
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 620
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 621
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 622
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 623
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 624
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 625
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 626
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 627
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 628
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 629
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 630
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 631
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 632
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 633
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 634
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 635
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 13
+    version: 61
+- model: app_terms.directoryitem
+  pk: 636
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 637
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 638
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 639
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 640
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 641
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 642
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 643
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 644
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 645
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 646
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 647
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 648
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 649
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 650
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 651
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 652
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 653
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 654
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 655
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 13
+    version: 62
+- model: app_terms.directoryitem
+  pk: 656
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 657
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 658
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 659
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 660
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 661
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 662
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 663
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 664
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 665
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 666
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 667
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 668
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 669
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 670
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 671
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 672
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 673
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 674
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 675
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 14
+    version: 63
+- model: app_terms.directoryitem
+  pk: 676
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 677
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 678
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 679
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 680
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 681
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 682
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 683
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 684
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 685
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 686
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 687
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 688
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 689
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 690
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 691
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 692
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 693
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 694
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 695
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 14
+    version: 64
+- model: app_terms.directoryitem
+  pk: 696
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 697
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 698
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 699
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 700
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 701
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 702
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 703
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 704
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 705
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 706
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 707
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 708
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 709
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 710
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 711
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 712
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 713
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 714
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 715
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 14
+    version: 65
+- model: app_terms.directoryitem
+  pk: 716
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 717
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 718
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 719
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 720
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 721
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 722
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 723
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 724
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 725
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 726
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 727
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 728
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 729
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 730
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 731
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 732
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 733
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 734
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 735
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 15
+    version: 66
+- model: app_terms.directoryitem
+  pk: 736
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 737
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 738
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 739
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 740
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 741
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 742
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 743
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 744
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 745
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 746
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 747
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 748
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 749
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 750
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 751
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 752
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 753
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 754
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 755
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 15
+    version: 67
+- model: app_terms.directoryitem
+  pk: 756
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 757
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 758
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 759
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 760
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 761
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 762
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 763
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 764
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 765
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 766
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 767
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 768
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 769
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 770
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 771
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 772
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 773
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 774
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 775
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 15
+    version: 68
+- model: app_terms.directoryitem
+  pk: 776
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 777
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 778
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 779
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 780
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 781
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 782
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 783
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 784
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 785
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 786
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 787
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 788
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 789
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 790
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 791
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 792
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 793
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 794
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 795
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 16
+    version: 69
+- model: app_terms.directoryitem
+  pk: 796
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 797
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 798
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 799
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 800
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 801
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 802
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 803
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 804
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 805
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 806
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 807
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 808
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 809
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 810
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 811
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 812
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 813
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 814
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 815
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 16
+    version: 70
+- model: app_terms.directoryitem
+  pk: 816
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 817
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 818
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 819
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 820
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 821
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 822
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 823
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 824
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 825
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 826
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 827
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 828
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 829
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 830
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 831
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 832
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 833
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 834
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 835
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 16
+    version: 71
+- model: app_terms.directoryitem
+  pk: 836
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 837
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 838
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 839
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 840
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 841
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 842
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 843
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 844
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 845
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 846
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 847
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 848
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 849
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 850
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 851
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 852
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 853
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 854
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 855
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 17
+    version: 72
+- model: app_terms.directoryitem
+  pk: 856
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 857
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 858
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 859
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 860
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 861
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 862
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 863
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 864
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 865
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 866
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 867
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 868
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 869
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 870
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 871
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 872
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 873
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 874
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 875
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 17
+    version: 73
+- model: app_terms.directoryitem
+  pk: 876
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 877
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 878
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 879
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 880
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 881
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 882
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 883
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 884
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 885
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 886
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 887
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 888
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 889
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 890
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 891
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 892
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 893
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 894
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 895
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 17
+    version: 74
+- model: app_terms.directoryitem
+  pk: 896
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 897
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 898
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 899
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 900
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 901
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 902
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 903
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 904
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 905
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 906
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 907
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 908
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 909
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 910
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 911
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 912
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 913
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 914
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 915
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 18
+    version: 75
+- model: app_terms.directoryitem
+  pk: 916
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 917
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 918
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 919
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 920
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 921
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 922
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 923
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 924
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 925
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 926
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 927
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 928
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 929
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 930
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 931
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 932
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 933
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 934
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 935
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 18
+    version: 76
+- model: app_terms.directoryitem
+  pk: 936
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 937
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 938
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 939
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 940
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 941
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 942
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 943
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 944
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 945
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 946
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 947
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 948
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 949
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 950
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 951
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 952
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 953
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 954
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 955
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 18
+    version: 77
+- model: app_terms.directoryitem
+  pk: 956
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 957
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 958
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 959
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 960
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 961
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 962
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 963
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 964
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 965
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 966
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 967
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 968
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 969
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 970
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 971
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 972
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 973
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 974
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 975
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 19
+    version: 78
+- model: app_terms.directoryitem
+  pk: 976
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 977
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 978
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 979
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 980
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 981
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 982
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 983
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 984
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 985
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 986
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 987
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 988
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 989
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 990
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 991
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 992
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 993
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 994
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 995
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 19
+    version: 79
+- model: app_terms.directoryitem
+  pk: 996
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 997
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 998
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 999
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1000
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1001
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1002
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1003
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1004
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1005
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1006
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1007
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1008
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1009
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1010
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1011
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1012
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1013
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1014
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1015
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 19
+    version: 80
+- model: app_terms.directoryitem
+  pk: 1016
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1017
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1018
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1019
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1020
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1021
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1022
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1023
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1024
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1025
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1026
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1027
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1028
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1029
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1030
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1031
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1032
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1033
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1034
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1035
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 20
+    version: 81
+- model: app_terms.directoryitem
+  pk: 1036
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1037
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1038
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1039
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1040
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1041
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1042
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1043
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1044
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1045
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1046
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1047
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1048
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1049
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1050
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1051
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1052
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1053
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1054
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1055
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 20
+    version: 82
+- model: app_terms.directoryitem
+  pk: 1056
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1057
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1058
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1059
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1060
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1061
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1062
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1063
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1064
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1065
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1066
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1067
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1068
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1069
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1070
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1071
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1072
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1073
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1074
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1075
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 20
+    version: 83
+- model: app_terms.directoryitem
+  pk: 1076
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1077
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1078
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1079
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1080
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1081
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1082
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1083
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1084
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1085
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1086
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1087
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1088
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1089
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1090
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1091
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1092
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1093
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1094
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1095
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 21
+    version: 84
+- model: app_terms.directoryitem
+  pk: 1096
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1097
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1098
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1099
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1100
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1101
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1102
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1103
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1104
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1105
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1106
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1107
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1108
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1109
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1110
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1111
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1112
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1113
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1114
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1115
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 21
+    version: 85
+- model: app_terms.directoryitem
+  pk: 1116
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1117
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1118
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1119
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1120
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1121
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1122
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1123
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1124
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1125
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1126
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1127
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1128
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1129
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1130
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1131
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1132
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1133
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1134
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1135
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 21
+    version: 86
+- model: app_terms.directoryitem
+  pk: 1136
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1137
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1138
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1139
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1140
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1141
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1142
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1143
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1144
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1145
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1146
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1147
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1148
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1149
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1150
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1151
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1152
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1153
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1154
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1155
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 22
+    version: 87
+- model: app_terms.directoryitem
+  pk: 1156
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1157
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1158
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1159
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1160
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1161
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1162
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1163
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1164
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1165
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1166
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1167
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1168
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1169
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1170
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1171
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1172
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1173
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1174
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1175
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 22
+    version: 88
+- model: app_terms.directoryitem
+  pk: 1176
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1177
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1178
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1179
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1180
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1181
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1182
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1183
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1184
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1185
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1186
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1187
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1188
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1189
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1190
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1191
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1192
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1193
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1194
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1195
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 22
+    version: 89
+- model: app_terms.directoryitem
+  pk: 1196
+  fields:
+    code: Элемент 1
+    value: Значение элемента 1
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1197
+  fields:
+    code: Элемент 2
+    value: Значение элемента 2
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1198
+  fields:
+    code: Элемент 3
+    value: Значение элемента 3
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1199
+  fields:
+    code: Элемент 4
+    value: Значение элемента 4
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1200
+  fields:
+    code: Элемент 5
+    value: Значение элемента 5
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1201
+  fields:
+    code: Элемент 6
+    value: Значение элемента 6
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1202
+  fields:
+    code: Элемент 7
+    value: Значение элемента 7
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1203
+  fields:
+    code: Элемент 8
+    value: Значение элемента 8
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1204
+  fields:
+    code: Элемент 9
+    value: Значение элемента 9
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1205
+  fields:
+    code: Элемент 10
+    value: Значение элемента 10
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1206
+  fields:
+    code: Элемент 11
+    value: Значение элемента 11
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1207
+  fields:
+    code: Элемент 12
+    value: Значение элемента 12
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1208
+  fields:
+    code: Элемент 13
+    value: Значение элемента 13
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1209
+  fields:
+    code: Элемент 14
+    value: Значение элемента 14
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1210
+  fields:
+    code: Элемент 15
+    value: Значение элемента 15
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1211
+  fields:
+    code: Элемент 16
+    value: Значение элемента 16
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1212
+  fields:
+    code: Элемент 17
+    value: Значение элемента 17
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1213
+  fields:
+    code: Элемент 18
+    value: Значение элемента 18
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1214
+  fields:
+    code: Элемент 19
+    value: Значение элемента 19
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1215
+  fields:
+    code: Элемент 20
+    value: Значение элемента 20
+    directory: 23
+    version: 90
+- model: app_terms.directoryitem
+  pk: 1216
+  fields:
+    code: Элемент 21
+    value: Значение элемента 21
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1217
+  fields:
+    code: Элемент 22
+    value: Значение элемента 22
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1218
+  fields:
+    code: Элемент 23
+    value: Значение элемента 23
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1219
+  fields:
+    code: Элемент 24
+    value: Значение элемента 24
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1220
+  fields:
+    code: Элемент 25
+    value: Значение элемента 25
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1221
+  fields:
+    code: Элемент 26
+    value: Значение элемента 26
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1222
+  fields:
+    code: Элемент 27
+    value: Значение элемента 27
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1223
+  fields:
+    code: Элемент 28
+    value: Значение элемента 28
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1224
+  fields:
+    code: Элемент 29
+    value: Значение элемента 29
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1225
+  fields:
+    code: Элемент 30
+    value: Значение элемента 30
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1226
+  fields:
+    code: Элемент 31
+    value: Значение элемента 31
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1227
+  fields:
+    code: Элемент 32
+    value: Значение элемента 32
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1228
+  fields:
+    code: Элемент 33
+    value: Значение элемента 33
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1229
+  fields:
+    code: Элемент 34
+    value: Значение элемента 34
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1230
+  fields:
+    code: Элемент 35
+    value: Значение элемента 35
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1231
+  fields:
+    code: Элемент 36
+    value: Значение элемента 36
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1232
+  fields:
+    code: Элемент 37
+    value: Значение элемента 37
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1233
+  fields:
+    code: Элемент 38
+    value: Значение элемента 38
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1234
+  fields:
+    code: Элемент 39
+    value: Значение элемента 39
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1235
+  fields:
+    code: Элемент 40
+    value: Значение элемента 40
+    directory: 23
+    version: 91
+- model: app_terms.directoryitem
+  pk: 1236
+  fields:
+    code: Элемент 41
+    value: Значение элемента 41
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1237
+  fields:
+    code: Элемент 42
+    value: Значение элемента 42
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1238
+  fields:
+    code: Элемент 43
+    value: Значение элемента 43
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1239
+  fields:
+    code: Элемент 44
+    value: Значение элемента 44
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1240
+  fields:
+    code: Элемент 45
+    value: Значение элемента 45
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1241
+  fields:
+    code: Элемент 46
+    value: Значение элемента 46
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1242
+  fields:
+    code: Элемент 47
+    value: Значение элемента 47
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1243
+  fields:
+    code: Элемент 48
+    value: Значение элемента 48
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1244
+  fields:
+    code: Элемент 49
+    value: Значение элемента 49
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1245
+  fields:
+    code: Элемент 50
+    value: Значение элемента 50
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1246
+  fields:
+    code: Элемент 51
+    value: Значение элемента 51
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1247
+  fields:
+    code: Элемент 52
+    value: Значение элемента 52
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1248
+  fields:
+    code: Элемент 53
+    value: Значение элемента 53
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1249
+  fields:
+    code: Элемент 54
+    value: Значение элемента 54
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1250
+  fields:
+    code: Элемент 55
+    value: Значение элемента 55
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1251
+  fields:
+    code: Элемент 56
+    value: Значение элемента 56
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1252
+  fields:
+    code: Элемент 57
+    value: Значение элемента 57
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1253
+  fields:
+    code: Элемент 58
+    value: Значение элемента 58
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1254
+  fields:
+    code: Элемент 59
+    value: Значение элемента 59
+    directory: 23
+    version: 92
+- model: app_terms.directoryitem
+  pk: 1255
+  fields:
+    code: Элемент 60
+    value: Значение элемента 60
+    directory: 23
+    version: 92

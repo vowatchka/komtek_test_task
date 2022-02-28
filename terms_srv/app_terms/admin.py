@@ -7,6 +7,10 @@ from .models import Directory, DirectoryVersion, DirectoryItem
 from .forms import DirectoryVersionForm, DirectoryItemForm
 
 
+# Кол-во записей в списке записей
+LIST_PER_PAGE = 10
+
+
 @admin.display(description="Справочник", ordering="directory__title")
 def directory_view(obj):
     """
@@ -30,6 +34,8 @@ class DirectoryAdmin(admin.ModelAdmin):
     list_display_links = ("id", "title")
 
     search_fields = ("title",)
+
+    list_per_page = LIST_PER_PAGE
 
     @admin.display(description="Описание")
     def description_view(self, obj):
@@ -80,6 +86,8 @@ class DirectoryVersionAdmin(admin.ModelAdmin):
 
     form = DirectoryVersionForm
 
+    list_per_page = LIST_PER_PAGE
+
 
 @admin.register(DirectoryItem)
 class DirectoryItemAdmin(admin.ModelAdmin):
@@ -93,6 +101,8 @@ class DirectoryItemAdmin(admin.ModelAdmin):
     search_fields = ("code", "value")
 
     form = DirectoryItemForm
+
+    list_per_page = LIST_PER_PAGE
 
     @admin.display(description="Значение элемента")
     def value_view(self, obj):

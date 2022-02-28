@@ -16,30 +16,31 @@ class DirectoryVersionForm(forms.ModelForm):
     def clean(self):
         super().clean()
 
-        # если справочник или дата не введены, то полагаемся на Django
-        if "directory" not in self.cleaned_data or "actual_from_dt" not in self.cleaned_data:
-            return
+        if "actual_from_dt" in self.cleaned_data:
+            # если справочник не введен, то полагаемся на Django
+            if "directory" not in self.cleaned_data:
+                return
 
-        errors = {}
-        directory = self.cleaned_data["directory"]
-        actual_from_dt = self.cleaned_data["actual_from_dt"]
+            errors = {}
+            directory = self.cleaned_data["directory"]
+            actual_from_dt = self.cleaned_data["actual_from_dt"]
 
-        # берем последнюю версию справчоника
-        last_version = self._meta.model.objects.only("version", "actual_from_dt").filter(directory=directory).first()
-        if last_version is None:
-            # если в справочнике нет версий, то новую версию можно добавить
-            return
+            # берем последнюю версию справочника
+            last_vers = self._meta.model.objects.only("version", "actual_from_dt").filter(directory=directory).first()
+            if last_vers is None:
+                # если в справочнике нет версий, то новую версию можно добавить
+                return
 
-        if actual_from_dt > last_version.actual_from_dt:
-            # если дата начала действия новой версии больше даты начала действия
-            # последней версии, то новую версию можно добавить
-            return
+            if actual_from_dt > last_vers.actual_from_dt:
+                # если дата начала действия новой версии больше даты начала действия
+                # последней версии, то новую версию можно добавить
+                return
 
-        errors["actual_from_dt"] = ValidationError(
-            "Дата начала действия версии не может быть меньше либо равна"
-            f" даты начала действия последней версии {last_version.version} ({last_version.actual_from_dt})"
-        )
-        raise ValidationError(errors)
+            errors["actual_from_dt"] = ValidationError(
+                "Дата начала действия версии не может быть меньше либо равна"
+                f" даты начала действия последней версии {last_vers.version} ({last_vers.actual_from_dt})"
+            )
+            raise ValidationError(errors)
 
 
 class DirectoryItemForm(forms.ModelForm):
@@ -54,18 +55,17 @@ class DirectoryItemForm(forms.ModelForm):
     def clean(self):
         super().clean()
 
-        # если код или версия не введены, то полагаемся на Django
-        if "code" not in self.cleaned_data or "version" not in self.cleaned_data:
-            return
+        if "code" in self.cleaned_data:
+            # если версия не введена, то полагаемся на Django
+            if "version" not in self.cleaned_data:
+                return
 
-        errors = {}
-        code = self.cleaned_data["code"]
-        version = self.cleaned_data["version"]
+            errors = {}
+            code = self.cleaned_data["code"]
+            version = self.cleaned_data["version"]
 
-        if self._meta.model.objects.filter(code=code, directory=version.directory).exists():
-            errors[NON_FIELD_ERRORS] = ValidationError(
-                "Элемент справочника с такими значениями полей Справочник и Код уже существует."
-            )
-            raise ValidationError(errors)
-
-        return None
+            if self._meta.model.objects.filter(code=code, directory=version.directory).exists():
+                errors[NON_FIELD_ERRORS] = ValidationError(
+                    "Элемент справочника с такими значениями полей Справочник и Код уже существует."
+                )
+                raise ValidationError(errors)

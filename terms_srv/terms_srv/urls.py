@@ -34,5 +34,5 @@ SchemaView = get_schema_view(
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include('app_terms.urls')),
-    path('swagger/', SchemaView.with_ui('swagger', cache_timeout=0), name='schema-swagger'),
+    path('', SchemaView.with_ui('swagger', cache_timeout=0), name='schema-swagger'),
 ]
