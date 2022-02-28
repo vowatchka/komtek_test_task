@@ -45,34 +45,47 @@ API должно предоставлять следующие методы:
 
 Некоторые подробности намеренно не указаны. Оставляем их на ваше усмотрение.
 
-## Технологии
 
-* Python >= 3.8
-
-## Критерии оценки
-
-* Выполнение требований ТЗ.
-* Читаемость программного кода (отступы, разделители и т.д.).
-* Адекватность выбора подхода: технологий, конструкций языка.
-* Наличие в коде программы комментариев и их содержание.
-* Невозможность внесения некорректных данных пользователем.
-* Наличие ошибок в программе (не ожиданное поведение, не корректные выходные данные), в том числе возникающих при непредусмотренных действиях пользователей.
-* Удобство использования (логичность элементов API и GUI-интерфейса).
-* Наличие описания разработанного API с примерами.
-
-## Размещение
-
-* Проект должен быть размещён на GitHub или аналогичном сервисе.
+## Реализация
+* REST API
+* Административный интерфейс
 
 
-## Links (order by useful)
-### Django + Postgres
-[Django+PostgreSQL за 8 шагов](https://djbook.ru/examples/77/)
-[Getting Started with PostgreSQL on Windows](https://courses.cs.washington.edu/courses/csep544/11au/resources/postgresql-instructions.html)
-[Установка и использование PostgreSQL на Ubuntu 20.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-20-04-ru)
-[How to connecting PostgreSQL with a Django application](https://medium.com/@rudipy/how-to-connecting-postgresql-with-a-django-application-f479dc949a11)
-[Set Up a PostgreSQL Database on Windows](https://www.microfocus.com/documentation/idol/IDOL_12_0/MediaServer/Guides/html/English/Content/Getting_Started/Configure/_TRN_Set_up_PostgreSQL.htm)
+## Использованные технологии
+* Python >=3.8
+* Django >=3.2,<4
+* DRF
+* PostgreSQL
+* Docker
 
-### Docker + Docker Compose
-[Докеризация Django с Postgres, Gunicorn и Traefik](https://techrocks.ru/2021/05/27/dockerizing-django-with-postgres-gunicorn-traefik/)
-[Quickstart: Compose and Django](https://docs.docker.com/samples/django/)
+
+## Диаграмма связей таблиц базы данных
+TODO: добавить изображение диаграммы
+
+
+## Установка
+
+1. Клонировать репозиторий
+```
+git clone https://github.com/vowatchka/komtek_test_task
+cd komtek_test_task
+```
+2. Запустить контейнеры docker
+```
+docker-compose up --build -d
+```
+3. Выполнить миграции и создать суперпользователя
+```
+docker-compose run terms_srv python manage.py migrate
+docker-compose run terms_srv python manage.py createsuperuser
+```
+4. Импортировать заранее сгенерированные тестовые фикстуры
+```
+docker-compose run terms_srv python manage.py loaddata --format yaml -i --app app_terms Directory.yaml DirectoryVersion.yaml DirectoryItem.yaml
+```
+5. Перейти по адресу http://localhost:8000. Должен отобразиться Swagger UI, где можно попробовать предлагаемый API.
+6. Также можно воспользоваться административным интерфейсом для управления справочниками, их версиями и элементами, перейдя по адресу http://localhost:8000/admin/ и войдя под созданным ранее суперпользователем.
+
+
+## Примеры работы API
+TODO: добавить примеры
