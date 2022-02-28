@@ -1,0 +1,25 @@
+version: "3.3"
+
+services:
+    db:
+        image: postgres:alpine
+        volumes:
+            - postgres_data:/var/lib/postgresql/data
+        environment:
+            - POSTGRES_DB=postgres
+            - POSTGRES_USER=postgres
+            - POSTGRES_PASSWORD=postgres
+        ports:
+            - 5432:5432
+    terms_srv:
+        build: .
+        command: python manage.py runserver 0.0.0.0:8000
+        environment:
+            - DATABASE_URL=psql://postgres:postgres@db:5432/postgres
+        ports:
+            - 8000:8000
+        depends_on:
+            - db
+            
+volumes:
+    postgres_data:
