@@ -97,6 +97,7 @@ class DirectoryItemAdmin(admin.ModelAdmin):
 
     list_display = ("id", "code", "value_view", directory_view, "version_view")
     list_display_links = ("id", "code")
+    ordering = ("directory__title", "code")
 
     search_fields = ("code", "value")
 
